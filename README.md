@@ -1,4 +1,4 @@
-# Challenge-6 Weather Dashboard
+# Challenge-6 Weather-Dashboard
 
 This weather dashboard app is for travelers who want to quickly access the weather on the go. Users will be able to select the city and will be able to see future weather forecast.
 
